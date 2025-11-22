@@ -1,0 +1,5 @@
+{"free_text":"Sé directa conmigo, aunque duela.","targets":{"sinceridad":1.0,"suavidad":0.3,"firmeza":0.9,"empatia":0.6,"proximidad":0.5}}
+{"free_text":"Háblame claro pero con cariño.","targets":{"sinceridad":0.8,"suavidad":0.7,"firmeza":0.4,"empatia":0.9,"proximidad":0.7}}
+{"free_text":"Necesito suavidad y paciencia.","targets":{"sinceridad":0.6,"suavidad":1.0,"firmeza":0.2,"empatia":0.9,"proximidad":0.8}}
+{"free_text":"No me endulces nada, pero sin dureza.","targets":{"sinceridad":0.9,"suavidad":0.5,"firmeza":0.7,"empatia":0.6,"proximidad":0.6}}
+{"free_text":"Háblame como si me conocieras de siempre.","targets":{"sinceridad":0.7,"suavidad":0.8,"firmeza":0.4,"empatia":0.9,"proximidad":1.0}}
