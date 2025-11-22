@@ -1,0 +1,11 @@
+{
+  "fields": [
+    {"name":"uid","type":"string"},
+    {"name":"timestamp","type":"string"},
+    {"name":"free_text","type":"string"},
+    {"name":"block_choice_ids","type":"array"},
+    {"name":"axis_intensities_raw","type":"object"},
+    {"name":"targets","type":"object"}
+  ],
+  "axes": ["sinceridad","suavidad","firmeza","empatia","proximidad"]
+}
