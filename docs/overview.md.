@@ -1,0 +1,15 @@
+# Overview
+
+Gigi IA = motor emocional-estético de Aurethica.
+
+Core:
+- Vector emocional en 5 ejes (0–1)
+- Test de calibración (bloques 1–5)
+- Adaptación de tono conversacional a cada usuaria
+- Datos anonimizados
+
+Carpetas:
+- `dataset/` datos y esquemas
+- `calibration/` frases del test
+- `design/` identidad y prompts visuales
+- `scripts/` herramientas de normalización
