@@ -1,0 +1,12 @@
+{
+  "collections": [{
+    "name": "GigiIA_Confirmacion",
+    "variables": [
+      {"id":"sinceridad_1","value":"Te hablaré con total claridad."},
+      {"id":"sinceridad_2","value":"Seré directa y honesta."},
+      {"id":"sinceridad_3","value":"Seré abierta contigo."},
+      {"id":"sinceridad_4","value":"Seré transparente aunque cueste."},
+      {"id":"sinceridad_5","value":"Diré la verdad aunque pueda doler."}
+    ]
+  }]
+}
