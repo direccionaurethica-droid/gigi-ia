@@ -1,0 +1,12 @@
+# Gigi IA — Aurethica
+
+Gigi IA es el asistente emocional-estético de Aurethica.
+
+Contiene:
+- Documentación del modelo emocional (`docs/`)
+- Dataset de calibración (`dataset/`)
+- Variables y guías de diseño (`design/`)
+- Textos de calibración (`calibration/`)
+- Scripts para transformar elecciones del test en vectores (`scripts/`)
+
+Este repositorio es la base del entrenamiento emocional de Gigi IA.
